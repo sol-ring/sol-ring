@@ -18,14 +18,13 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=a371f7&center=true&vCenter=true&width=900&height=44&lines=Im%20interested%20in%20CV%2C%20motion%20planning%2C%20physics%20simulations%2C%20networks%20and%20more!;Most%20of%20my%20projects%20aren't%20here%2C%20but%20feel%20free%20to%20reach%20out!" alt="Typing headlines" />
+  <img src="https://readme-typing-svg.demolab.com?font=Garamond&weight=600&size=16&pause=1000&color=a371f7&center=true&vCenter=true&width=900&height=44&lines=Im%20interested%20in%20CV%2C%20motion%20planning%2C%20physics%20simulations%2C%20networks%20and%20more!;We're%20friends%20now !;Reach%20Out!" alt="Typing headlines" />
 </p>
-
 
 🔭 &nbsp; **Configuring my Linux Home Server**  
 🌱 &nbsp; **Networking, PC Hardware/Maintence, AWS Infrastructure**  
 💬 &nbsp; **Finding a community of builders with common interests**  
-⚡ &nbsp; **Enjoying OverTheWire Labs and Database Detective**
+⚡ &nbsp; **Enjoying OverTheWire Labs and Database Detective**        
 ❓ &nbsp; **Ask me about proofs, logic, music, or comics**
 
 

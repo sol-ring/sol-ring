@@ -56,5 +56,3 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/samuel-s-3a462420b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:samsylvia101@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
----
-<p align="center"><i>⭐️ From <a href="https://github.com/sol-ring">sol-ring</a></i></p>

@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 ### 🚀 About Me
 
 🔭 &nbsp;I'm currently working on **Configuring my Linux Home Server**  
-🌱 &nbsp;I'm currently learning **Networking, PC Hardware/Maintence, AWS Infrastructure, LEAN Proofs**  
+🌱 &nbsp;I'm currently learning **Networking, PC Hardware/Maintence, AWS Infrastructure, and LEAN Proofs**  
 🤔 &nbsp;I'm looking for help with **Finding a community of builders with common interests,**  
 ⚡ &nbsp;Fun fact: **I enjoy 'OvertheWire' and 'Database Detective' in my free time**
 

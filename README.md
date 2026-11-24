@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Garamond&weight=600&size=16&pause=1000&color=a371f7&center=true&vCenter=true&width=900&height=44&lines=Im%20interested%20in%20CV%2C%20motion%20planning%2C%20physics%20simulations%2C%20networks%20and%20more!;We're%20friends%20now%20:);Reach%20Out%20:)" alt="Typing headlines" />
+  <img src="https://readme-typing-svg.demolab.com?font=Garamond&weight=600&size=16&pause=1000&color=a371f7&center=true&vCenter=true&width=900&height=44&lines=Im%20interested%20in%20CV%2C%20motion%20planning%2C%20physics%20simulations%2C%20networks%20and%20more!;We're%20friends%20now%20:);Reach%20Out!%20:)" alt="Typing headlines" />
 </p>
 
 🔭 &nbsp; **Configuring my Linux Home Server**  
